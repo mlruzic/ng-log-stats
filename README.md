@@ -16,9 +16,11 @@ bower install ng-log-stats
 ```
 
 or you can use console in dev tools to load the script in browser:
-    var script = document.createElement('script');
-    script.src = "https://raw.githubusercontent.com/mlruzic/ng-log-stats/master/src/ng-log-stats.js";
-    document.getElementsByTagName('head')[0].appendChild(script);
+```
+var script = document.createElement('script');
+script.src = "https://raw.githubusercontent.com/mlruzic/ng-log-stats/master/src/ng-log-stats.js";
+document.getElementsByTagName('head')[0].appendChild(script);
+```
 
 Credits
 -------
