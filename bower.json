@@ -1,0 +1,10 @@
+{
+    "name": "ng-log-stats",
+    "main": "src/ng-log-stats.js",
+    "version": "1.0.0",
+    "homepage": "https://github.com/mlruzic/ng-log-stats",
+    "authors": ["Mladen Ruzic <mladen.ruzic@gmail.com>"],
+    "description": "Script that logs number of watchers and $digest fn execution time to the console",
+    "keywords": ["angularjs", "optimization", "watchers", "digest"],
+    "license": "MIT"
+}
